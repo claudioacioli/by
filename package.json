@@ -1,0 +1,17 @@
+{
+  "name": "byjs",
+  "version": "1.0.0",
+  "description": "Wrapper to type less code to select elements",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "by",
+    "js",
+    "selector",
+    "elements"
+  ],
+  "author": "Claudio Acioli",
+  "license": "ISC"
+}
