@@ -25,7 +25,7 @@ import {
 
 to select element by id:
 
-```
+```node
 byId("element-id");
 
 // specific parent
