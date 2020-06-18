@@ -13,5 +13,9 @@
     "elements"
   ],
   "author": "Claudio Acioli",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.11"
+  }
 }
