@@ -1,4 +1,4 @@
-export const
+const
   
   byId = (id, parent=document) => 
     parent.getElementById(id)
