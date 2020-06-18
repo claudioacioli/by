@@ -1,5 +1,5 @@
 {
-  "name": "by-element",
+  "name": "by-el",
   "version": "1.0.0",
   "description": "Wrapper to type less code to select elements",
   "main": "index.js",

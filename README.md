@@ -1,11 +1,11 @@
-# By.js
+# by-el
 
 Welcome to super simpliest wrapper library to type less code!
 
 ## Install
 
 ```bash
-npm install byjs
+npm install by-el
 ```
 
 ## Use it
