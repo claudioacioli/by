@@ -4,7 +4,7 @@ Welcome to super simpliest wrapper library to type less code!
 
 ## Install
 
-```node
+```bash
 npm install byjs
 ```
 
@@ -12,7 +12,7 @@ npm install byjs
 
 Import wrapper functions:
 
-```
+```node
 import {
   byId,
   byClass,
@@ -34,7 +34,7 @@ byId("element-id", parentElement);
 
 to select element by selector:
 
-```
+```node
 bySelector("#element-id");
 bySelector(".class");
 bySelector("tag");
@@ -46,7 +46,7 @@ bySelector(".class", byId("element-id"));
 
 to select elements by className:
 
-```
+```node
 byClass("class");
 
 //specific parent
@@ -55,7 +55,7 @@ byClass("class", bySelector("tag"));
 
 to select elements by Name:
 
-```
+```node
 byName("name");
 
 //specific parent
@@ -64,7 +64,7 @@ byName("name", bySelector("tag"));
 
 to select elements by TagName:
 
-```
+```node
 byTag("tag");
 
 //specific parent
@@ -73,7 +73,7 @@ byTag("class", bySelector("#element-id"));
 
 to select elements by all:
 
-```
+```node
 byAll(".class");
 
 //specific parent
