@@ -1,4 +1,4 @@
-# By
+# By.js
 
 Welcome to super simpliest wrapper library to type less code!
 
