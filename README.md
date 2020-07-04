@@ -14,7 +14,7 @@ npm install by-el
 
 import React from 'react';
 import ReactDOM from 'react-dom';
-**import { byId } from 'by-el';**
+import { byId } from 'by-el';
 import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
@@ -23,7 +23,7 @@ ReactDOM.render(
   <React.StrictMode>
     <App />
   </React.StrictMode>,
-  **byId('root')**
+  byId('root')
 );
 
 // If you want your app to work offline and load faster, you can change
