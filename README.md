@@ -45,7 +45,7 @@ import {
   byTag,
   byName,
   byAll
-} from "byjs";
+} from 'by-el`;
 ```
 
 to select element by id:
@@ -93,7 +93,7 @@ to select elements by TagName:
 byTag("tag");
 
 //specific parent
-byTag("class", bySelector("#element-id"));
+byTag("tag", bySelector("#element-id"));
 ```
 
 to select elements by all:
@@ -102,5 +102,5 @@ to select elements by all:
 byAll(".class");
 
 //specific parent
-byAll("class", byId("element-id"));
+byAll(".class", byId("element-id"));
 ```
