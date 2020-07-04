@@ -10,7 +10,7 @@ npm install by-el
 
 ## A React sample
 
-```react
+```node
 
 import React from 'react';
 import ReactDOM from 'react-dom';
