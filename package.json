@@ -1,6 +1,6 @@
 {
   "name": "by-el",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Wrapper to type less code to select elements",
   "main": "index.js",
   "scripts": {
